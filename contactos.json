@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Martín Gómez",
+        "telefono": "2615123456",
+        "email": "martin.gomez@gmail.com"
+    },
+    {
+        "nombre": "Joaquín Rodríguez",
+        "telefono": "3516789012",
+        "email": "joaquin.rodriguez@gmail.com"
+    },
+    {
+        "nombre": "Luciano Fernández",
+        "telefono": "1134567890",
+        "email": "luciano.fernandez@gmail.com"
+    },
+    {
+        "nombre": "Santiago Pérez",
+        "telefono": "3415678901",
+        "email": "santiago.perez@gmail.com"
+    },
+    {
+        "nombre": "Federico Sosa",
+        "telefono": "3816789012",
+        "email": "federico.sosa@gmail.com"
+    },
+    {
+        "nombre": "Ezequiel Díaz",
+        "telefono": "2217890123",
+        "email": "ezequiel.diaz@gmail.com"
+    },
+    {
+        "nombre": "Nahuel Ramírez",
+        "telefono": "2648901234",
+        "email": "nahuel.ramirez@gmail.com"
+    },
+    {
+        "nombre": "Matías Acosta",
+        "telefono": "2919012345",
+        "email": "matias.acosta@gmail.com"
+    },
+    {
+        "nombre": "Franco Benítez",
+        "telefono": "3870123456",
+        "email": "franco.benitez@gmail.com"
+    },
+    {
+        "nombre": "Agustín Herrera",
+        "telefono": "2991234567",
+        "email": "agustin.herrera@gmail.com"
+    },
+    {
+        "nombre": "Carlos Perez",
+        "telefono": "2615845788",
+        "email": "carlosPe@gmail.com"
+    }
+]
